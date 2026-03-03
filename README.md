@@ -20,10 +20,3 @@
 |:-------------|:--------------|
 | 🛠 Tech Stack | ![skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,nodejs,mysql,mongodb,firebase,git,docker,figma,ps,ai) |
 ---
-
-## 📊 More Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hieuthanh1209&layout=compact&theme=light&hide_border=true" height="162"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hieuthanh1209&show_icons=true&theme=light&hide_border=true" height="162"/>
-</p>
