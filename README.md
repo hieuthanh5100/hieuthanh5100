@@ -19,4 +19,3 @@
 | 🎯 About Me | - Student at HUFLIT. Passionate in UI/UX <br> - Resume: [LinkedIn](https://www.linkedin.com/in/thanhhieu5100/) |
 |:-------------|:--------------|
 | 🛠 Tech Stack | ![skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,nodejs,mysql,mongodb,firebase,git,docker,figma,ps,ai) |
----
