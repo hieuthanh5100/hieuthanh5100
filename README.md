@@ -1,11 +1,11 @@
-<h1 align="center">Hieu Thanh</h1>
-<h3 align="center">Software Engineering Student | UI/UX & Graphic Designer</h3>
+<h1 align="left">Hieu Thanh</h1>
+<h3 align="left">Software Engineering Student | UI/UX & Graphic Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hieuthanh1209&label=Profile%20views&color=424242&style=flat-square" alt="views"/>
 </p>
 
-<p align="center">
+<p align="left">
   A design-driven Software Engineering student focusing on creating intuitive user experiences. I combine a strong foundation in visual design with front-end development principles to build clean, user-centric digital products.
 </p>
 
