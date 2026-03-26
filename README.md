@@ -1,5 +1,11 @@
 <h1 align="center">Hieu Thanh</h1>
 <h3 align="center">Software Engineering Student | UI/UX & Graphic Designer</h3>
+<p align="center">
+  <a href="mailto:your-email@example.com">Email</a> &nbsp; | &nbsp; 
+  <a href="https://www.behance.net/thanhhieu0051">Behance</a> &nbsp; | &nbsp; 
+  <a href="https://linkedin.com/in/thanhhieu5100">LinkedIn</a> 
+  <a href="https://www.thanhhieu5100.id.vn">Portfolio</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hieuthanh1209&label=Profile%20views&color=424242&style=flat-square" alt="views"/>
@@ -38,14 +44,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hieuthanh5100&show_icons=false&theme=transparent&hide_border=true&title_color=424242&text_color=333333" alt="GitHub Stats" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:your-email@example.com">Email</a> &nbsp; | &nbsp; 
-  <a href="https://www.behance.net/thanhhieu0051">Behance</a> &nbsp; | &nbsp; 
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
 </p>
