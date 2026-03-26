@@ -16,7 +16,7 @@
 * **Ho Chi Minh City University of Foreign Languages - Information Technology (HUFLIT)** *Software Engineering Student* | 2023 – Present
 
 * **1 9 6 7 Entertainment**
-  *Video Editor & Content Creator* | 2024 – 2025
+  *Graphic Designer, Video Editor & Content Creator* | 2024 – 2025
 
 * **Freelance**
   *Graphic Designer* | 2016 – Present 
