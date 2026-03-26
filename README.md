@@ -12,5 +12,3 @@
 - 🎓 **2023 – Present**: Studying **Software Engineering** at **HUFLIT**
 - 🎨 **2016 – Present**: Freelance Graphic Designer → [Behance Portfolio](https://www.behance.net/thanhhieu0051)
 - Updating...
-
----
